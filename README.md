@@ -1,4 +1,4 @@
-# Lab00
+# Lab02
 
 *Being familiar with C/C++ and Catch2*
 
@@ -26,8 +26,8 @@ This part describes the activity. This example activity consists in fixing two f
 
 ## Instructions
 
-- You can ONLY change files `lab00.hpp` and `README.md`!
-   * In file `lab00.hpp` put your implementations, and in `README.md` put your full name.
+- You can ONLY change files `lab02.hpp`, `ex01.hpp` , `ex02.hpp` and `README.md`!
+   * In files `lab02.hpp` , `ex01.hpp` and `ex02.hpp` put your implementations, and in `README.md` put your full name.
 
 Explanations for the other files:
 

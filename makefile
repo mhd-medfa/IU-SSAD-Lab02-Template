@@ -1,6 +1,6 @@
 all: clean test
 
-appTests: tests.cpp lab00.hpp
+appTests: tests.cpp lab02.hpp
 	g++ -fsanitize=address --std=c++17 tests.cpp -o appTests
 
 test: appTests
